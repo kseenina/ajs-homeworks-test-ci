@@ -22,11 +22,10 @@
     "@babel/core": "^8.0.1",
     "@babel/preset-env": "^8.0.2",
     "@eslint/js": "^10.0.1",
+    "babel-plugin-polyfill-corejs3": "^1.0.0",
+    "core-js": "3.36",
     "eslint": "^10.9.1",
     "globals": "^17.11.0",
     "jest": "^30.5.0"
-  },
-  "dependencies": {
-    "core-js": "^3.50.0"
   }
 }
