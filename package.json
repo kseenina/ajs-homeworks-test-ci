@@ -1,0 +1,32 @@
+{
+  "name": "ajs-homeworks-test-ci",
+  "version": "1.0.0",
+  "description": "[![CI Pipeline](https://github.com/kseenina/ajs-homeworks-test-ci/actions/workflows/main.yml/badge.svg)](https://github.com/kseenina/ajs-homeworks-test-ci/actions/workflows/main.yml)\r # Домашнее задание к лекции «Unit-тестирование»",
+  "homepage": "https://github.com/kseenina/ajs-homeworks-test-ci#readme",
+  "bugs": {
+    "url": "https://github.com/kseenina/ajs-homeworks-test-ci/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kseenina/ajs-homeworks-test-ci.git"
+  },
+  "license": "ISC",
+  "author": "kseenina",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/cli": "^8.0.4",
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.9.1",
+    "globals": "^17.11.0",
+    "jest": "^30.5.0"
+  },
+  "dependencies": {
+    "core-js": "^3.50.0"
+  }
+}
