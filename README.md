@@ -1,1 +1,2 @@
+[![CI Pipeline](https://github.com/kseenina/ajs-homeworks-test-ci/actions/workflows/main.yml/badge.svg)](https://github.com/kseenina/ajs-homeworks-test-ci/actions/workflows/main.yml)
 # Домашнее задание к лекции «Unit-тестирование»
